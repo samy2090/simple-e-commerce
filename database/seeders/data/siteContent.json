@@ -1,0 +1,723 @@
+[
+  {
+    "title": {
+      "ar": "Control your home corners with a single command",
+      "en": "Control your home corners with a single command"
+    },
+    "description": {
+      "ar": "We convert your home to smart home, a comfort and relaxed environment using advanced product that make your home easy to control. energy saving and secure.",
+      "en": "We convert your home to smart home, a comfort and relaxed environment using advanced product that make your home easy to control. energy saving and secure."
+    },
+    "content": {
+      "ar": "This is the actual content for the hero section.",
+      "en": "This is the actual content for the hero section."
+    },
+    "type": "content",
+    "identifier": "heroSection",
+    "slug": "hero-section-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Control you home now .",
+      "en": "Control you home now ."
+    }
+  },
+  {
+    "title": {
+      "ar": "Your home with one single touch",
+      "en": "Your home with one single touch"
+    },
+    "description": {
+      "ar": "Device control Lighting Security & Surveillance Air conditioning & Climat control.",
+      "en": "Device control Lighting Security & Surveillance Air conditioning & Climat control."
+    },
+    "content": {
+      "ar": "This is the actual content for the induction section.",
+      "en": "This is the actual content for the induction section."
+    },
+    "type": "content",
+    "identifier": "induction",
+    "slug": "induction-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Control you home now.",
+      "en": "Control you home now."
+    }
+  },
+  {
+    "title": {
+      "ar": "About",
+      "en": "About"
+    },
+    "description": {
+      "ar": "We are specialized in smart home solutions and automation. With our wide experience in technology, we can service your needs in smart home and automation systems. Doing our best to convert your home to smart home, acomfort and relaxed environment using advanced product that make your home easy to control, energy saving and secure..",
+      "en": "We are specialized in smart home solutions and automation. With our wide experience in technology, we can service your needs in smart home and automation systems. Doing our best to convert your home to smart home, acomfort and relaxed environment using advanced product that make your home easy to control, energy saving and secure."
+    },
+    "content": {
+      "ar": "This is the actual content for the about section.",
+      "en": "This is the actual content for the about section."
+    },
+    "type": "content",
+    "identifier": "About",
+    "slug": "about-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Mission",
+      "en": "Mission"
+    },
+    "description": {
+      "ar": "Being a leader in building smart city and homes in digital era growth.",
+      "en": "Being a leader in building smart city and homes in digital era growth."
+    },
+    "content": {
+      "ar": "This is the actual content for the about section.",
+      "en": "This is the actual content for the about section."
+    },
+    "type": "content",
+    "identifier": "Mission",
+    "slug": "mission-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Vision",
+      "en": "Vision"
+    },
+    "description": {
+      "ar": "By providing smart home solutions and products, comfort, and excellent smart experience. With a range of customized products to meet the expectation and serve the needs.      ",
+      "en": "By providing smart home solutions and products, comfort, and excellent smart experience. With a range of customized products to meet the expectation and serve the needs.      "
+    },
+    "content": {
+      "ar": "This is the actual content for the about section.",
+      "en": "This is the actual content for the about section."
+    },
+    "type": "content",
+    "identifier": "Vision",
+    "slug": "vision-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  
+  {
+    "title": {
+      "ar": "Solutions and Products",
+      "en": "Solutions and Products"
+    },
+    "description": {
+      "ar": "Let us do the effort for you, with our range of choices and products, wired (XNK) or Wi-Fi smart home systems that will meet your requirements and needs to comfort and control through the Mobile App or Apple HomeKit and Amazon Alexa      .",
+      "en": "Let us do the effort for you, with our range of choices and products, wired (XNK) or Wi-Fi smart home systems that will meet your requirements and needs to comfort and control through the Mobile App or Apple HomeKit and Amazon Alexa      ."
+    },
+    "content": {
+      "ar": "This is the actual content for the solution product title section.",
+      "en": "This is the actual content for the solution product title section."
+    },
+    "type": "content",
+    "identifier": "solution_product_title",
+    "slug": "solution-product-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Lighting",
+      "en": "Lighting"
+    },
+    "description": {
+      "ar": "Providing the control of lighting and automation scenarios",
+      "en": "Providing the control of lighting and automation scenarios"
+    },
+    "content": {
+      "ar": "This is the actual content for the Lighting section.",
+      "en": "This is the actual content for the Lighting section."
+    },
+    "type": "content",
+    "identifier": "solution",
+    "slug": "lighting-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Air condition and climate",
+      "en": "Air condition and climate"
+    },
+    "description": {
+      "ar": "Maintain and control your home air conditioning using smartphone or based on climate conditions and scenarios.",
+      "en": "Maintain and control your home air conditioning using smartphone or based on climate conditions and scenarios."
+    },
+    "content": {
+      "ar": "This is the actual content for the Air condition and climate section.",
+      "en": "This is the actual content for the Air condition and climate section."
+    },
+    "type": "content",
+    "identifier": "solution",
+    "slug": "air-condition-climate-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Device’s control",
+      "en": "Device’s control"
+    },
+    "description": {
+      "ar": "Сontrolling home devices with one connected network from switches or mobile App.",
+      "en": "Сontrolling home devices with one connected network from switches or mobile App."
+    },
+    "content": {
+      "ar": "This is the actual content for the Device’s control section.",
+      "en": "This is the actual content for the Device’s control section."
+    },
+    "type": "content",
+    "identifier": "solution",
+    "slug": "device-control-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Security and Surveillance",
+      "en": "Security and Surveillance"
+    },
+    "description": {
+      "ar": "Secure and monitor your home with camera and motion sensor that alerts and record unusual activities",
+      "en": "Secure and monitor your home with camera and motion sensor that alerts and record unusual activities"
+    },
+    "content": {
+      "ar": "This is the actual content for the Security and Surveillance section.",
+      "en": "This is the actual content for the Security and Surveillance section."
+    },
+    "type": "content",
+    "identifier": "solution",
+    "slug": "security-surveillance-title",
+    "visibility": 1,
+      "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Energy saving",
+      "en": "Energy saving"
+    },
+    "description": {
+      "ar": "Solutions to help you monitor electric consumption and customize your scenarios to switch appliances when you don’t need it.",
+      "en": "Solutions to help you monitor electric consumption and customize your scenarios to switch appliances when you don’t need it."
+    },
+    "content": {
+      "ar": "This is the actual content for the Energy saving section.",
+      "en": "This is the actual content for the Energy saving section."
+    },
+    "type": "content",
+    "identifier": "solution",
+    "slug": "energy-saving-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Entertainment and sound",
+      "en": "Entertainment and sound"
+    },
+    "description": {
+      "ar": "Full control of your entertainment and surrounding system",
+      "en": "Full control of your entertainment and surrounding system"
+    },
+    "content": {
+      "ar": "This is the actual content for the Entertainment and sound section.",
+      "en": "This is the actual content for the Entertainment and sound section."
+    },
+    "type": "content",
+    "identifier": "solution",
+    "slug": "entertainment-sound-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Motion sensor",
+      "en": "Motion sensor"
+    },
+    "description": {
+      "ar": "Motion sensor",
+      "en": "Motion sensor"
+    },
+    "content": {
+      "ar": "This is the actual content for the Motion sensor section.",
+      "en": "This is the actual content for the Motion sensor section."
+    },
+    "type": "content",
+    "identifier": "product",
+    "slug": "motion-sensor-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Switched and touch screens",
+      "en": "Switched and touch screens"
+    },
+    "description": {
+      "ar": "Switched and touch screens",
+      "en": "Switched and touch screens"
+    },
+    "content": {
+      "ar": "This is the actual content for the Switched and touch screens section.",
+      "en": "This is the actual content for the Switched and touch screens section."
+    },
+    "type": "content",
+    "identifier": "product",
+    "slug": "switched-touch-screens-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Air conditioning",
+      "en": "Air conditioning"
+    },
+    "description": {
+      "ar": "Air conditioning",
+      "en": "Air conditioning"
+    },
+    "content": {
+      "ar": "This is the actual content for the Air conditioning section.",
+      "en": "This is the actual content for the Air conditioning section."
+    },
+    "type": "content",
+    "identifier": "product",
+    "slug": "air-conditioning-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Air conditioning2",
+      "en": "Air conditioning2"
+    },
+    "description": {
+      "ar": "Air conditioning2",
+      "en": "Air conditioning2"
+    },
+    "content": {
+      "ar": "This is the actual content for the Air conditioning section.",
+      "en": "This is the actual content for the Air conditioning section."
+    },
+    "type": "content",
+    "identifier": "product",
+    "slug": "air-conditioning-title2",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Supported frameworks and Brands",
+      "en": "Supported frameworks and Brands"
+    },
+    "description": {
+      "ar": "Air conditioning",
+      "en": "Air conditioning"
+    },
+    "content": {
+      "ar": "This is the actual content for the Air conditioning section.",
+      "en": "This is the actual content for the Air conditioning section."
+    },
+    "type": "content",
+    "identifier": "framworks",
+    "slug": "supported-frameworks",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Products Page content",
+      "en": "Products Page content"
+    },
+    "description": {
+      "ar": "Variaty of high-tech devices and products for your Smart Home allow control multiple areas and appliances, simple, easy and reliable.      ",
+      "en": "Variaty of high-tech devices and products for your Smart Home allow control multiple areas and appliances, simple, easy and reliable.      "
+    },
+    "content": {
+      "ar": "This is the actual content for the products page.",
+      "en": "This is the actual content for the products page."
+    },
+    "type": "conten",
+    "identifier": "Products_page_content",
+    "slug": "products",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Control you home now.",
+      "en": "Control you home now."
+    }
+  },
+  {
+    "title": {
+      "ar": "Smart home components",
+      "en": "Smart home components"
+    },
+    "description": {
+      "ar": "All interactions with one in-app click",
+      "en": "All interactions with one in-app click"
+    },
+    "content": {
+      "ar": "Device control Lighting Security & Surveillance Air conditioning & Climat control",
+      "en": "Device control Lighting Security & Surveillance Air conditioning & Climat control"
+    },
+    "type": "conten",
+    "identifier": "SmartHomeComponents_content",
+    "slug": "smart-home-components-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "supported brands",
+      "en": "supported brands"
+    },
+    "description": {
+      "ar": "supported brands",
+      "en": "supported brands"
+    },
+    "content": {
+      "ar": "supported brands",
+      "en": "supported brands"
+    },
+    "type": "conten",
+    "identifier": "supported_brands",
+    "slug": "supported-brands-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Comfy and versatile usage with remote mobile app",
+      "en": "Comfy and versatile usage with remote mobile app"
+    },
+    "description": {
+      "ar": "Simple, convenient, and easier than ever. Advanced technology allows you to connect with Google Assistant and Amazon Alexa to make the process even more pleasant.",
+      "en": "Simple, convenient, and easier than ever. Advanced technology allows you to connect with Google Assistant and Amazon Alexa to make the process even more pleasant."
+    },
+    "content": {
+      "ar": "mobile app",
+      "en": "mobile app"
+    },
+    "type": "content",
+    "identifier": "remote_app",
+    "slug": "remote-app-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Internal and external network",
+      "en": "Internal and external network"
+    },
+    "description": {
+      "ar": "Connectivity with internal home network or internet to control from outside",
+      "en": "Connectivity with internal home network or internet to control from outside"
+    },
+    "content": {
+      "ar": "This is the actual content for the Internal and external network section.",
+      "en": "This is the actual content for the Internal and external network section."
+    },
+    "type": "content",
+    "identifier": "smart_product",
+    "slug": "internal-external-network-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Switches",
+      "en": "Switches"
+    },
+    "description": {
+      "ar": "Connectivity with internal home network or internet to control from outside",
+      "en": "Connectivity with internal home network or internet to control from outside"
+    },
+    "content": {
+      "ar": "This is the actual content for the Switches section.",
+      "en": "This is the actual content for the Switches section."
+    },
+    "type": "content",
+    "identifier": "smart_product",
+    "slug": "switches-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Appliances and devices",
+      "en": "Appliances and devices"
+    },
+    "description": {
+      "ar": "AC, Lighting, Doors and curtain, Security camera",
+      "en": "AC, Lighting, Doors and curtain, Security camera"
+    },
+    "content": {
+      "ar": "This is the actual content for the Appliances and devices section.",
+      "en": "This is the actual content for the Appliances and devices section."
+    },
+    "type": "content",
+    "identifier": "smart_product",
+    "slug": "appliances-devices-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Product categories",
+      "en": "Product categories"
+    },
+    "description": {
+      "ar": "Variaty of high-tech devices and products for your Smart Home allow control multiple areas and appliances, simple, easy and reliable.",
+      "en": "Variaty of high-tech devices and products for your Smart Home allow control multiple areas and appliances, simple, easy and reliable."
+    },
+    "content": {
+      "ar": "This is the actual content for the Product categories section.",
+      "en": "This is the actual content for the Product categories section."
+    },
+    "type": "content",
+    "identifier": "productsPage_content",
+    "slug": "product-categories-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Control your home now",
+      "en": "Control your home now"
+    }
+  },
+  {
+    "title": {
+      "ar": "Smart home advantages",
+      "en": "Smart home advantages"
+    },
+    "description": {
+      "ar": "With the help of smart devices, the Internet of Things can connect every aspect of your home. This creates a unified network that is accessible through any device with comfort experience. You will no longer have to worry about your home appliances or security. It automatically turning off when you leave for work. Your system will be able to sense when someone is in the home and shut off the lights and AC accordingly or provide you with alert",
+      "en": "With the help of smart devices, the Internet of Things can connect every aspect of your home. This creates a unified network that is accessible through any device with comfort experience. You will no longer have to worry about your home appliances or security. It automatically turning off when you leave for work. Your system will be able to sense when someone is in the home and shut off the lights and AC accordingly or provide you with alert"
+    },
+    "content": {
+      "ar": "comfort for you, thrift for the home",
+      "en": "comfort for you, thrift for the home"
+    },
+    "type": "content",
+    "identifier": "advantagesPage_content",
+    "slug": "smart-home-advantages-title",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Control you home now",
+      "en": "Control you home now"
+    }
+  }, {
+    "title": {
+      "ar": "Energy Saving",
+      "en": "Energy Saving"
+    },
+    "description": {
+      "ar": "Advanced technologies and complex solutions to ensure your appliances and home technique is used in the most effective way.",
+      "en": "Advanced technologies and complex solutions to ensure your appliances and home technique is used in the most effective way."
+    },
+    "content": {
+      "ar": "This is the actual content for the Energy Saving advantage.",
+      "en": "This is the actual content for the Energy Saving advantage."
+    },
+    "type": "content",
+    "identifier": "advantage",
+    "slug": "energy-saving-advantage",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Smart Home Solutions",
+      "en": "Smart Home Solutions"
+    },
+    "description": {
+      "ar": "Complete smart solutions to simplify and optimize your daily routines.",
+      "en": "Complete smart solutions to simplify and optimize your daily routines."
+    },
+    "content": {
+      "ar": "This is the actual content for the Smart Home Solutions advantage.",
+      "en": "This is the actual content for the Smart Home Solutions advantage."
+    },
+    "type": "content",
+    "identifier": "advantage",
+    "slug": "smart-home-solutions-advantage",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Security Solutions",
+      "en": "Security Solutions"
+    },
+    "description": {
+      "ar": "Advanced security systems to protect your home and loved ones.",
+      "en": "Advanced security systems to protect your home and loved ones."
+    },
+    "content": {
+      "ar": "This is the actual content for the Security Solutions advantage.",
+      "en": "This is the actual content for the Security Solutions advantage."
+    },
+    "type": "content",
+    "identifier": "advantage",
+    "slug": "security-solutions-advantage",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  },
+  {
+    "title": {
+      "ar": "Customizable Scenarios",
+      "en": "Customizable Scenarios"
+    },
+    "description": {
+      "ar": "Tailored automation scenarios for a more personalized home experience.",
+      "en": "Tailored automation scenarios for a more personalized home experience."
+    },
+    "content": {
+      "ar": "This is the actual content for the Customizable Scenarios advantage.",
+      "en": "This is the actual content for the Customizable Scenarios advantage."
+    },
+    "type": "content",
+    "identifier": "advantage",
+    "slug": "customizable-scenarios-advantage",
+    "visibility": 1,
+    "icon": null,
+    "link": "https://example.com",
+    "link_text": {
+      "ar": "Click here to view more.",
+      "en": "Click here to view more."
+    }
+  }
+  
+]
